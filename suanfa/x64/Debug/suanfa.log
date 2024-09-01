@@ -1,0 +1,4 @@
+﻿  suanfa.cpp
+C:\Users\Lenovo\Desktop\suanfa\suanfa.cpp(17,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\suanfa\suanfa.cpp(85,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  suanfa.vcxproj -> C:\Users\Lenovo\Desktop\suanfa\x64\Debug\suanfa.exe
